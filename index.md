@@ -32,79 +32,48 @@
 	</body>
 
 <style>
-	h1{
+	h1
+	{
 	padding: 0px 10px;
 	line-height: 0px;
 	}
-	ul{
-		list-style-type:none;
-		margin:0;
-		padding: 13px 16px;
-		overflow:hidden;
-		background-color:white;
+	
+	
+	ul
+	{
+	list-style-type:none;
+	margin:0;
+	padding: 13px 16px;
+	overflow:hidden;
+	background-color:white;
 	}
-	li{
-		display: inline;
+	
+	
+	li
+	{
+	display: inline;
 	}
-	li a{
-
-		text-decoration: none;
-		padding: 14px 16px;
-		color: #000000;
+	
+	
+	li a
+	{
+	text-decoration: none;
+	padding: 14px 16px;
+	color: #000000;
 	}
-	li a:hover{
-		background-color: #aaa;
-		color: #fff
+	
+	
+	li a:hover
+	{
+	background-color: #aaa;
+	color: #fff
 	}
-	li a.active {
-    background-color: #811d5e;
-    color: white;
-}
-
-	.left{
-		float: left;
-		margins: 10px 10px 10px 10px;
-	}
-	p{
-		color: #ff6f01;
-		font-family: "Courier New", Courier, monospace;
-		font-size: 18px;
-		margin-right: 100px;
-		margin-left: 100px;
-		text-indent: 30px;
-		line-height: 2.0;
-		}
-	.lists { 
-		text-align: center; 
-		list-style-position:inside;
-		color: #1E90FF;
-		font-family: "Variane Script";
-		font-size: 24px;
-	}
-	.headers{
-		color: #1E90FF;
-		font-family: "Variane Script";
-		font-size: 50px;
-	}
-	.headers2{
-		color: #f3b05a;
-		font-family: "Variane Script";
-		font-size: 50px;
-	}
-	.home{
-	display:block;
-	padding: 20px, 30px;
-	background-color: #e7e7e7
-	}
-	body{
-	background-image: url('images/sunset.jpg'); 
-	background-position: middle;
-	background-repeat: no-repeat;
-	background-size: 1920px 1080px;
-	}
-	@font-face{
-		font-family: 'Variane Script';
-		src: url('Variane Script.ttf') format('truetype');
+	
+	
+	li a.active 
+	{
+    	background-color: #811d5e;
+    	color: white;
 	}
 </style>
 </html>
