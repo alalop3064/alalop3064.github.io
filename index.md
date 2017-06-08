@@ -5,7 +5,7 @@
          </title>
     </head>
 	<body>
-		<p class="header" >
+		<p>
         	Alan's Website
         </p>
       	<!-- Navigation Bar starts here -->
