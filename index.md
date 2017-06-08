@@ -5,7 +5,7 @@
          </title>
     </head>
 	<body>
-		<h1 class="headers">
+		<h1 >
         	Alan's Website
         </h1>
       	<!-- Navigation Bar starts here -->
@@ -58,9 +58,9 @@
 	li a.active {
     background-color: #811d5e;
     color: white;
-}
+	}
 
-.left{
+	.left{
 		float: left;
 		margins: 10px 10px 10px 10px;
 	}
