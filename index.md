@@ -5,9 +5,9 @@
          </title>
     </head>
 	<body>
-		<h1 >
+		<p class="header" >
         	Alan's Website
-        </h1>
+        </p>
       	<!-- Navigation Bar starts here -->
         <ul>
             <li ><a class= "active" href= "index.html">Home</a></li>
