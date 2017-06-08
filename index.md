@@ -96,7 +96,7 @@
 	background-color: #e7e7e7
 	}
 	body{
-	background-image: url('images/sunset.jpg'); 
+	background-image: url('sunset.jpg'); 
 	background-position: middle;
 	background-repeat: no-repeat;
 	background-size: 1920px 1080px;
