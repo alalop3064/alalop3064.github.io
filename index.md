@@ -81,6 +81,9 @@
 		font-size: 24px;
 	}
 	.headers{
+	color: #1E90FF;
+	font-family: "Variane Script";
+	font-size: 50px;
 	}
 	.headers2{
 		color: #f3b05a;
