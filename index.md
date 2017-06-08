@@ -60,7 +60,7 @@
     color: white;
 }
 
-	.left{
+.left{
 		float: left;
 		margins: 10px 10px 10px 10px;
 	}
